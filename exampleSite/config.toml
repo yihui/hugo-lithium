@@ -2,8 +2,6 @@ baseurl = "/"
 languageCode = "en-US"
 title = "A Hugo website"
 theme = "hugo-lithium"
-googleAnalytics = ""
-disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 [permalinks]
